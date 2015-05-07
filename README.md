@@ -24,10 +24,6 @@ How to install
 2. Unzip to ~/Documents/Aptana Rubles (there should be a folder named CodexPlatino.ruble after you extract the zip).
 3. Restart Titanium Studio.
 
-### NOTE:
-
-When starting a new Platino project, you'll still need to add the Platino module to your tiapp.xml or you'll get a build error. In Titanium/Appcelerator Studio, double-click on the tiapp.xml file under your project, and add Platino to the 'Modules' section (on the far right).
-
 ### Additional Note: 
 
 Consider checking out [https://CodexCasts.com](https://CodexCasts.com) episode 6 on Titanium Studio Rubles, where we built this program live.
