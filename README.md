@@ -18,7 +18,7 @@ How to install
 ----
 
 0. Install Titanium Studio.
-1. Download the [latest Platino.ruble release](https://github.com/BlackGateGames/Platino.ruble.git/releases/)
+1. Download the [latest Platino.ruble release](https://github.com/BlackGateGames/Platino.ruble/releases/)
 2. Unzip to ~/Documents/Aptana Rubles (there should be a folder named Platino.ruble after you extract the zip).
 3. Restart Titanium Studio.
 
