@@ -2,7 +2,7 @@ with_defaults :scope => 'meta.project.com.appcelerator.titanium.mobile source.js
   snippet 'New Scene from Template' do |s|
     s.trigger = 'scene'
     s.expansion =
-"var platino = require('co.lanica.platino');
+"var platino = require('io.platino');
 
 var ${1:SceneName} = function(window, game) {
 \tvar scene = platino.createScene();
